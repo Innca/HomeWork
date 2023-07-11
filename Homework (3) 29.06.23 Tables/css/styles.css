@@ -1,0 +1,29 @@
+body {
+background-image: url(https://elements-cover-images-0.imgix.net/1a519a78-f104-4dd4-b0f5-22625ff66ef7?auto=compress%2Cformat&fit=max&w=1370&s=9754174cffbf5814c96f97f16b1c7456);
+}
+.test-li {
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+}
+h1 {
+    text-align: center;
+    color: goldenrod ;
+}
+custom-table {
+    width: 100px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 40px;
+    
+    
+
+}
+.image {
+    height: 30px;
+    width: 30px;
+}
+tr,th {
+    color: aliceblue;
+}
